@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer | DevOps| Computer Scientist | Anything tech related Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=onerealprince&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+   <strong>NB This is a new profile,i lost my old one</strong>
 </p>
 
 ---
