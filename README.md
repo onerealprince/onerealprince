@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prince Akanya</h1>
-<h3 align="center">Full-Stack Developer | DevOps Learner | Medical Robotics Enthusiast</h3>
+<h3 align="center">Full-Stack Developer | DevOps| Computer Scientist | Anything tech related Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prince-akanya&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=onerealprince&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
