@@ -8,9 +8,11 @@
 ---
 
 - 🧠 Passionate about solving real-world problems through software engineering.
+- ❤︎  Tech Enthusiast, Code Enthusiast
 - 🌍 Based in the world😊, building scalable web applications with modern technologies.
 - 🚀 Actively exploring the intersection of software and reality.
-- 🛠️ Focused on clean architecture, intuitive UI/UX, and DevOps best practices.
+- 🛠️ Focused on clean architecture, building softwares from intuitive UI/UX, and DevOps best practices.
+- 😊 I'm enthusiastic about learning new things 
 - 🤝 Always open to collaborations, freelance gigs, and exciting job opportunities.
 - 📫 Reach me at: **princeakanya11@gmail.com**
 
