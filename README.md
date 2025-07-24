@@ -91,11 +91,12 @@
 
 ## 🧠 Interests
 
-- 🏥 Solving real life problems t  
+- 🏥 Solving real life problems.
 - ☁️ Scalable Cloud Deployment on Azure & Linux VMs  
 - 🧩 Software development,System Architecture, API Design & Secure Auth  
 - 🧠 Continuous Learning, Research, and Growth Hacking
-
+- ⚽ Sports 🎮
+-  
 ---
 
 ## 📫 Let's Connect
