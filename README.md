@@ -96,7 +96,6 @@
 - 🧩 Software development,System Architecture, API Design & Secure Auth  
 - 🧠 Continuous Learning, Research, and Growth Hacking
 - ⚽ Sports 🎮
--  
 ---
 
 ## 📫 Let's Connect
